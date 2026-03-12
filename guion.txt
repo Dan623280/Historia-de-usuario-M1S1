@@ -1,0 +1,21 @@
+Hello, my name is Daniel Alvarez and I am a developer.
+Today I am presenting a simple Python program.
+
+This program is a product registration system.
+It is a basic program that asks the user for product information.
+
+First, the program shows a welcome message on the screen.
+
+Then the system asks the user for the product name.
+Next, the program asks for the unit price and the quantity of the product.
+
+After that, the program calculates the total cost by multiplying the price by the quantity.
+
+Then the system prints the product information, including the name, the price, the quantity, and the total.
+
+The program uses a try and except block to handle errors.
+If the user enters an invalid value, the program shows the message "valor no valido".
+
+Right now the system is waiting for user input and is processing the information.
+
+Thank you.
